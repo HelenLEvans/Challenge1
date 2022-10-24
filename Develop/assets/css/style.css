@@ -96,8 +96,8 @@ p {
 }
 
 /*center align text in box*/
-.benefit-lead h3, .benefit-brand h3, .benefit-cost h3 {
-    margin-bottom: 10px;
+.benefit-lead, .benefit-brand, .benefit-cost {
+    margin-bottom: 36px;
     text-align: center;
 }
 
